@@ -13,4 +13,3 @@ InternLM Tutorial and Project Development
 ## References
 1. [Github仓库的Fork与PR(Pull Request)教程](https://www.bilibili.com/video/BV1bd4y1J7Vt/?spm_id_from=333.337.search-card.all.click&vd_source=427d5b3bd6552cd66c00e381e2aae338)
 
-2. 
