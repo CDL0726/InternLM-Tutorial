@@ -20,15 +20,15 @@ InternLM Tutorial and Project Development
 
 可选任务 1 将Linux基础命令在开发机上完成一遍     
 
-
+![](./rm2.png)  
 
 可选任务 2 使用 VSCODE 远程连接开发机并创建一个conda环境    
 
-
+![](./rm3.png)  
 
 可选任务 3 创建并运行`test.sh`文件    
 
-
+![](./rm4.png)  
 
 任务提交地址：https://aicarrier.feishu.cn/share/base/form/shrcnZ4bQ4YmhEtMtnKxZUcf1vd    
 
