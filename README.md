@@ -16,7 +16,7 @@ InternLM Tutorial and Project Development
 
 **完成SSH连接与端口映射并运行`hello_world.py`**    
 
-![]/(./rm1.png)   
+![](./rm1.png)   
 
 可选任务 1 将Linux基础命令在开发机上完成一遍     
 
