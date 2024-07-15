@@ -32,12 +32,28 @@ InternLM Tutorial and Project Development
 
 任务提交地址：https://aicarrier.feishu.cn/share/base/form/shrcnZ4bQ4YmhEtMtnKxZUcf1vd    
 
+## 第2关  L0-Python 基础知识
+
+## 闯关任务
+
+>- **任务1**: Python实现wordcount    
+>- **任务2**: Vscode连接InternStudio debug笔记
+  
+
+
+## References
+1. [Python官方文档](https://docs.python.org/zh-cn/3/)
+2. [书生大模型实战营 |第3期| L0-Python task](https://github.com/InternLM/Tutorial/blob/camp3/docs/L0/Python/task.md)
+3. [书生大模型实战营 |第3期| 学员闯关手册](https://aicarrier.feishu.cn/wiki/XBO6wpQcSibO1okrChhcBkQjnsf)
+4. [大佬笔记](https://github.com/WMing404/shusheng-demo/blob/main/notes/shusheng_notes.md)
+ 
+
 ## 第3关  L0-Git 基础知识
 
 ## 闯关任务
 
-- **任务1**: 破冰活动：自我介绍    
-- **任务2**: 实践项目：构建个人项目
+>- **任务1**: 破冰活动：自我介绍    
+>- **任务2**: 实践项目：构建个人项目
 
 ## 任务1: 破冰活动：自我介绍
 
