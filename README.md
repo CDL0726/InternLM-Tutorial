@@ -12,7 +12,7 @@ InternLM Tutorial and Project Development
 
 ## 第1关  L0-Linux 基础知识    
 
-### 闯关任务    
+## 闯关任务作业    
 
 **完成SSH连接与端口映射并运行`hello_world.py`**    
 
@@ -59,11 +59,13 @@ Conda是一个开源的软件包管理系统和环境管理系统，它主要用
 
 很多时候我们要debug的不止是一个简单的python文件，而是很多参数，参数中不止会有简单的值还可能有错综复杂的文件关系,甚至debug一整个项目。这种情况下，直接使用命令行来发起debug会是一个更好的选择。    
 
-### 作业任务1: Python实现wordcount    
+## 闯关任务作业    
+
+**任务1: Python实现wordcount**    
 
 ![](./rm6.png) 
 
-### 作业任务2: Vscode连接InternStudio debug笔记
+**任务2: Vscode连接InternStudio debug笔记**
 
 ![](./rm7.png) 
 
@@ -115,6 +117,8 @@ Git 基础：[Git 基础知识](https://aicarrier.feishu.cn/wiki/YAXRwLZxPi8Hy6k
 
 >- **任务1**: 破冰活动：自我介绍    
 >- **任务2**: 实践项目：构建个人项目
+
+## 闯关任务作业    
 
 ### 任务1: 破冰活动：自我介绍
 
