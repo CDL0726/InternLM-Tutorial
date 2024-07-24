@@ -59,10 +59,13 @@ Conda是一个开源的软件包管理系统和环境管理系统，它主要用
 
 很多时候我们要debug的不止是一个简单的python文件，而是很多参数，参数中不止会有简单的值还可能有错综复杂的文件关系,甚至debug一整个项目。这种情况下，直接使用命令行来发起debug会是一个更好的选择。    
 
+### 作业任务1: Python实现wordcount    
 
+![](./rm6.png) 
 
+### 作业任务2: Vscode连接InternStudio debug笔记
 
-
+![](./rm7.png) 
 
 ## References
 1. [Python官方文档](https://docs.python.org/zh-cn/3/)
@@ -130,11 +133,37 @@ Git 基础：[Git 基础知识](https://aicarrier.feishu.cn/wiki/YAXRwLZxPi8Hy6k
 ### 实现步骤
 
 >   1. 将该仓库的 camp3 分支 fork 到自己的 GitHub 仓库
->   2. 在 `./data/Git/task/` 目录下创建一个名为 `camp3_<id>.md` 的文件，其中 `<id>` 是您的报名问卷ID
+>   2. 在 `./data/Git/task/` 目录下创建一个名为 `camp3_688.md` 的文件，其中 `<id>` 是您的报名问卷ID
 >   3. 在文件中填写自我介绍内容
 >   4. 提交 Pull Request，将自我介绍文件请求添加到 camp3 分支
 
+**开发代码**
+```
+git clone https://github.com/CDL0726/Tutorial.git # 修改为自己frok的仓库
+cd Tutorial/
+git branch -a
+git checkout -b camp3 origin/camp3
+
+git checkout -b camp3_688 # 自定义一个新的分支
+
+touch ./data/Git/task/camp3_688.md # 修改为自己的问卷ID
+
+git add .
+git commit -m "add git_688_introduction" # 提交信息记录
+
+git push origin camp3_688
+```
+显示效果：
+![](./rm8.png)  
+![](./rm9.png) 
+
+### 任务2: 实践项目：构建个人项目    
+
+>- 实践项目： Healthcare-Agent 医疗智能体
+>- 项目地址: https://github.com/CDL0726/Healthcare-Agent
 
 ## References
 1. [Github仓库的Fork与PR(Pull Request)教程](https://www.bilibili.com/video/BV1bd4y1J7Vt/?spm_id_from=333.337.search-card.all.click&vd_source=427d5b3bd6552cd66c00e381e2aae338)
+2. [Git关卡任务](https://github.com/InternLM/Tutorial/blob/camp3/docs/L0/Git/readme.md)
+   
 
